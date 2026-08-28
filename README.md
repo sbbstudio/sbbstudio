@@ -18,7 +18,7 @@ Two Next.js apps in daily operation — React 19, Next 16, Tailwind 4, Vitest �
 
 ### Source-controlled case work
 
-[jelsadokumentene.no](https://jelsadokumentene.no) — public documentation of Norwegian environmental cases, produced by an agent chain that keeps evidence, interpretation and strategy apart and traces every claim back to the record it came from.
+An agent chain built around a Norwegian environmental case: it keeps evidence, interpretation and strategy in separate lanes, and every claim carries a traceable citation back to the record it came from. The public site is not published yet, so there is nothing to link — I will walk you through it instead.
 
 ## The position
 
