@@ -6,7 +6,7 @@ The contribution graph above is one person and a fleet of agents in the same rep
 
 ### Governed agent fleets
 
-**40+ AI agents in operation** on one repo, one memory model and one governance standard. They plan, write code, review each other and open pull requests. A truth gate sits in front of every artifact and refuses any claim that cannot name its source, so the failure mode is a blocked package rather than a confident one.
+**Agents that plan, write code, review each other and open pull requests**, on one repo, one memory model and one governance standard. A truth gate sits in front of every artifact and refuses any claim that cannot name its source, so the failure mode is a blocked package rather than a confident one. The fleet itself is private; what you can check today is under *What you can open right now*.
 
 ### Built for someone other than me
 
@@ -35,4 +35,4 @@ The rest is private: client work and the agent infrastructure itself. Ask, and I
 
 ---
 
-Copenhagen from 1 September 2026 · rune@kaizenstudio.no
+Copenhagen · rune@kaizenstudio.no
